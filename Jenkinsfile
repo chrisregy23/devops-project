@@ -16,8 +16,5 @@ pipeline{
             }
         }
     }
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 6e814e363d3f3989986ebc0fa0ccedeabd67a173
